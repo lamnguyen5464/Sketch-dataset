@@ -9,8 +9,8 @@ then
 	CATEGORIES_FILE="$1"
 fi
 
-rm -rf $RESULT_ROOT;
-rm $EMPTY_LIST
+# rm -rf $RESULT_ROOT;
+# rm $EMPTY_LIST
 
 echo "Download from file $CATEGORIES_FILE"
 
