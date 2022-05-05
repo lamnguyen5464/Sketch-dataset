@@ -1,0 +1,344 @@
+The Eiffel Tower.ndjson
+The Great Wall of China.ndjson
+The Mona Lisa.ndjson
+aircraft carrier.ndjson
+airplane.ndjson
+alarm clock.ndjson
+ambulance.ndjson
+angel.ndjson
+animal migration.ndjson
+ant.ndjson
+anvil.ndjson
+apple.ndjson
+arm.ndjson
+asparagus.ndjson
+axe.ndjson
+backpack.ndjson
+banana.ndjson
+bandage.ndjson
+barn.ndjson
+baseball bat.ndjson
+baseball.ndjson
+basket.ndjson
+basketball.ndjson
+bat.ndjson
+bathtub.ndjson
+beach.ndjson
+bear.ndjson
+beard.ndjson
+bed.ndjson
+bee.ndjson
+belt.ndjson
+bench.ndjson
+bicycle.ndjson
+binoculars.ndjson
+bird.ndjson
+birthday cake.ndjson
+blackberry.ndjson
+blueberry.ndjson
+book.ndjson
+boomerang.ndjson
+bottlecap.ndjson
+bowtie.ndjson
+bracelet.ndjson
+brain.ndjson
+bread.ndjson
+bridge.ndjson
+broccoli.ndjson
+broom.ndjson
+bucket.ndjson
+bulldozer.ndjson
+bus.ndjson
+bush.ndjson
+butterfly.ndjson
+cactus.ndjson
+cake.ndjson
+calculator.ndjson
+calendar.ndjson
+camel.ndjson
+camera.ndjson
+camouflage.ndjson
+campfire.ndjson
+candle.ndjson
+cannon.ndjson
+canoe.ndjson
+car.ndjson
+carrot.ndjson
+castle.ndjson
+cat.ndjson
+ceiling fan.ndjson
+cell phone.ndjson
+cello.ndjson
+chair.ndjson
+chandelier.ndjson
+church.ndjson
+circle.ndjson
+clarinet.ndjson
+clock.ndjson
+cloud.ndjson
+coffee cup.ndjson
+compass.ndjson
+computer.ndjson
+cookie.ndjson
+cooler.ndjson
+couch.ndjson
+cow.ndjson
+crab.ndjson
+crayon.ndjson
+crocodile.ndjson
+crown.ndjson
+cruise ship.ndjson
+cup.ndjson
+diamond.ndjson
+dishwasher.ndjson
+diving board.ndjson
+dog.ndjson
+dolphin.ndjson
+donut.ndjson
+door.ndjson
+dragon.ndjson
+dresser.ndjson
+drill.ndjson
+drums.ndjson
+duck.ndjson
+dumbbell.ndjson
+ear.ndjson
+elbow.ndjson
+elephant.ndjson
+envelope.ndjson
+eraser.ndjson
+eye.ndjson
+eyeglasses.ndjson
+face.ndjson
+fan.ndjson
+feather.ndjson
+fence.ndjson
+finger.ndjson
+fire hydrant.ndjson
+fireplace.ndjson
+firetruck.ndjson
+fish.ndjson
+flamingo.ndjson
+flashlight.ndjson
+flip flops.ndjson
+floor lamp.ndjson
+flower.ndjson
+flying saucer.ndjson
+foot.ndjson
+fork.ndjson
+frog.ndjson
+frying pan.ndjson
+garden hose.ndjson
+garden.ndjson
+giraffe.ndjson
+goatee.ndjson
+golf club.ndjson
+grapes.ndjson
+grass.ndjson
+guitar.ndjson
+hamburger.ndjson
+hammer.ndjson
+hand.ndjson
+harp.ndjson
+hat.ndjson
+headphones.ndjson
+hedgehog.ndjson
+helicopter.ndjson
+helmet.ndjson
+hexagon.ndjson
+hockey puck.ndjson
+hockey stick.ndjson
+horse.ndjson
+hospital.ndjson
+hot air balloon.ndjson
+hot dog.ndjson
+hot tub.ndjson
+hourglass.ndjson
+house plant.ndjson
+house.ndjson
+hurricane.ndjson
+ice cream.ndjson
+jacket.ndjson
+jail.ndjson
+kangaroo.ndjson
+key.ndjson
+keyboard.ndjson
+knee.ndjson
+knife.ndjson
+ladder.ndjson
+lantern.ndjson
+laptop.ndjson
+leaf.ndjson
+leg.ndjson
+light bulb.ndjson
+lighter.ndjson
+lighthouse.ndjson
+lightning.ndjson
+line.ndjson
+lion.ndjson
+lipstick.ndjson
+lobster.ndjson
+lollipop.ndjson
+mailbox.ndjson
+map.ndjson
+marker.ndjson
+matches.ndjson
+megaphone.ndjson
+mermaid.ndjson
+microphone.ndjson
+microwave.ndjson
+monkey.ndjson
+moon.ndjson
+mosquito.ndjson
+motorbike.ndjson
+mountain.ndjson
+mouse.ndjson
+moustache.ndjson
+mouth.ndjson
+mug.ndjson
+mushroom.ndjson
+nail.ndjson
+necklace.ndjson
+nose.ndjson
+ocean.ndjson
+octagon.ndjson
+octopus.ndjson
+onion.ndjson
+oven.ndjson
+owl.ndjson
+paint can.ndjson
+paintbrush.ndjson
+palm tree.ndjson
+panda.ndjson
+pants.ndjson
+paper clip.ndjson
+parachute.ndjson
+parrot.ndjson
+passport.ndjson
+peanut.ndjson
+pear.ndjson
+peas.ndjson
+pencil.ndjson
+penguin.ndjson
+piano.ndjson
+pickup truck.ndjson
+picture frame.ndjson
+pig.ndjson
+pillow.ndjson
+pineapple.ndjson
+pizza.ndjson
+pliers.ndjson
+police car.ndjson
+pond.ndjson
+pool.ndjson
+popsicle.ndjson
+postcard.ndjson
+potato.ndjson
+power outlet.ndjson
+purse.ndjson
+rabbit.ndjson
+raccoon.ndjson
+radio.ndjson
+rain.ndjson
+rainbow.ndjson
+rake.ndjson
+remote control.ndjson
+rhinoceros.ndjson
+rifle.ndjson
+river.ndjson
+roller coaster.ndjson
+rollerskates.ndjson
+sailboat.ndjson
+sandwich.ndjson
+saw.ndjson
+saxophone.ndjson
+school bus.ndjson
+scissors.ndjson
+scorpion.ndjson
+screwdriver.ndjson
+sea turtle.ndjson
+see saw.ndjson
+shark.ndjson
+sheep.ndjson
+shoe.ndjson
+shorts.ndjson
+shovel.ndjson
+sink.ndjson
+skateboard.ndjson
+skull.ndjson
+skyscraper.ndjson
+sleeping bag.ndjson
+smiley face.ndjson
+snail.ndjson
+snake.ndjson
+snorkel.ndjson
+snowflake.ndjson
+snowman.ndjson
+soccer ball.ndjson
+sock.ndjson
+speedboat.ndjson
+spider.ndjson
+spoon.ndjson
+spreadsheet.ndjson
+square.ndjson
+squiggle.ndjson
+squirrel.ndjson
+stairs.ndjson
+star.ndjson
+steak.ndjson
+stereo.ndjson
+stethoscope.ndjson
+stitches.ndjson
+stop sign.ndjson
+stove.ndjson
+strawberry.ndjson
+streetlight.ndjson
+string bean.ndjson
+submarine.ndjson
+suitcase.ndjson
+sun.ndjson
+swan.ndjson
+sweater.ndjson
+swing set.ndjson
+sword.ndjson
+syringe.ndjson
+t-shirt.ndjson
+table.ndjson
+teapot.ndjson
+teddy-bear.ndjson
+telephone.ndjson
+television.ndjson
+tennis racquet.ndjson
+tent.ndjson
+tiger.ndjson
+toaster.ndjson
+toe.ndjson
+toilet.ndjson
+tooth.ndjson
+toothbrush.ndjson
+toothpaste.ndjson
+tornado.ndjson
+tractor.ndjson
+traffic light.ndjson
+train.ndjson
+tree.ndjson
+triangle.ndjson
+trombone.ndjson
+truck.ndjson
+trumpet.ndjson
+umbrella.ndjson
+underwear.ndjson
+van.ndjson
+vase.ndjson
+violin.ndjson
+washing machine.ndjson
+watermelon.ndjson
+waterslide.ndjson
+whale.ndjson
+wheel.ndjson
+windmill.ndjson
+wine bottle.ndjson
+wine glass.ndjson
+wristwatch.ndjson
+yoga.ndjson
+zebra.ndjson
